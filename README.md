@@ -1,2 +1,2 @@
 # meditation
-Following Dev Ed Youtube tutorial + changes I made
+Following Dev Ed Youtube tutorial + new changes I made
